@@ -50,7 +50,7 @@ h1 {
 h2 {
   margin: 1.5rem;
   color: #C82D38;
-  font-family: tahoma fantasy;
+  font-family: tahoma;
 }
 
 p {
@@ -71,7 +71,6 @@ p {
 
 @media only screen and (min-width: 60em) {
 
-  .data {
-    padding: 1.5rem;
-    padding: 4rem;
+.data {
+  padding: 4rem;
 }
