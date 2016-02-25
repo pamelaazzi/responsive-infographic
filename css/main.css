@@ -18,7 +18,7 @@ html {
 
 svg {
   width: 100%;
-  height: 100%;
+
   display: block;
 }
 
@@ -34,7 +34,7 @@ body {
 
 .boy{
   width: 100%;
-  padding: 1rem;
+  padding: 1em;
 
 }
 
@@ -42,4 +42,32 @@ body {
   width: 100%;
   margin-top: 6rem;
 
+}
+
+h1 {
+  margin: 1rem;
+  color: #C82D38;
+  font-family: tahoma;
+  text-align: center;
+}
+
+h2 {
+  margin: 1.5rem;
+  color: #C82D38;
+  font-family: tahoma;
+}
+
+p {
+  margin: 1.5rem;
+  color: white;
+  font-family: tahoma;
+}
+
+.population {
+  width: 100%;
+  padding: 1rem;
+}
+
+.data {
+  padding: 1.5rem;
 }
