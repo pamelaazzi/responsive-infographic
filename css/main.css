@@ -69,5 +69,15 @@ p {
 }
 
 .data {
-  padding: 1.5rem;
+  padding: 3rem;
+  width: 100%;
 }
+
+
+
+@media only screen and (min-width: 60em) {
+
+  .data {
+    padding: 1.5rem;
+    padding: 4rem;
+  }
